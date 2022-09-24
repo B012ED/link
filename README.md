@@ -6,4 +6,3 @@
 
 [![Tools-bored](https://img.shields.io/badge/endpoint?url=https://b012ed.github.io/B012ED-Tools.json&style=?style=for-the-badge&logo=appveyor)](https://www.studypool.com/notebank/search?notebank_qs=b012ed&notebank_qs_university=)
 
-
